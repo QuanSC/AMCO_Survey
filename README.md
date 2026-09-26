@@ -28,18 +28,9 @@ Cycle	N (screened AMC)	Method
 
 2026 figures are aggregate summary values. 2022 and 2024 individual respondent rows are embedded directly in the HTML for the interactive explorer.
 
-How to deploy on GitHub Pages
-In your repo, go to Settings → Pages
-Under Source, select Deploy from a branch
-Choose main (or whichever branch holds your file) and / (root)
-Save — GitHub will give you a URL like https://yourusername.github.io/repo-name/
-If the file is named AMCO_Survey_Combined.html rather than index.html, your live URL will be https://yourusername.github.io/repo-name/AMCO_Survey_Combined.html
-
-To use a clean root URL, rename the file to index.html before pushing.
-
 Credits
-Role	Person
 Survey design	Thomas Stokkermans, OD PhD · Case Western / UH Eye Institute (2022, 2024) · Steven C. Quan, OD, FAAO (2026)
+
 Data collection & analysis	Steven C. Quan, OD, FAAO · University of Chicago Medicine
 Dashboard development	Steven C. Quan, OD, FAAO
 
