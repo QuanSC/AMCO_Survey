@@ -25,11 +25,14 @@ Because different people responded in each cycle, these are changes across respo
 
 ## Data
 
-| Cycle | N (screened AMC) | Method |
-|---|---|---|
-| 2022 | 45 | SurveyMonkey, AMCO SIG listserv |
-| 2024 | 63 | SurveyMonkey, AMCO SIG listserv |
-| 2026 | 56 | SurveyMonkey, AMCO SIG listserv |
+| Cycle | Screened AMC respondents | Included in analysis | Method |
+|---|---|---|---|
+| 2022 | 45 | 45 | SurveyMonkey, AMCO SIG listserv |
+| 2024 | 65 | 63 | SurveyMonkey, AMCO SIG listserv |
+| 2026 | 66 | 56 | SurveyMonkey, AMCO SIG listserv |
+| **Total** | **176** | **164** | |
+
+**Screened AMC respondents** passed the academic medical center screener question. **Included in analysis** reflects respondents with sufficient responses for analysis; the number answering any individual question varies and is shown with each chart.
 
 ## Data and privacy
 
